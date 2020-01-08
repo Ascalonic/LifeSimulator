@@ -14,6 +14,10 @@ The dots can also **reproduce**, after hitting a specific energy level, age and 
 
 The dots also have a characteristic, named **size** which denotes the size of the dot - indicating their strength. The size also affects their energy consumption.
 
+Another interesting characteristics is **social interaction**. If one dot is seen running out of energy, a kin (dictated by their virtual
+DNA) can help it. The helped dot will interact and will learn some behaviors of the helper (which may primarily result in the
+former following the latter).
+
 Below is a screenshot of a simulation :
 
 ![Screenshot](https://github.com/Ascalonic/LifeSimulator/blob/master/Screenshots/SC09012020.JPG)
